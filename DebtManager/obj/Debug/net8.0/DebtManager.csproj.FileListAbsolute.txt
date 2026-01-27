@@ -1,0 +1,14 @@
+/home/msasa/Documents/project/DebtManager/DebtManager/bin/Debug/net8.0/DebtManager
+/home/msasa/Documents/project/DebtManager/DebtManager/bin/Debug/net8.0/DebtManager.deps.json
+/home/msasa/Documents/project/DebtManager/DebtManager/bin/Debug/net8.0/DebtManager.runtimeconfig.json
+/home/msasa/Documents/project/DebtManager/DebtManager/bin/Debug/net8.0/DebtManager.dll
+/home/msasa/Documents/project/DebtManager/DebtManager/bin/Debug/net8.0/DebtManager.pdb
+/home/msasa/Documents/project/DebtManager/DebtManager/obj/Debug/net8.0/DebtManager.GeneratedMSBuildEditorConfig.editorconfig
+/home/msasa/Documents/project/DebtManager/DebtManager/obj/Debug/net8.0/DebtManager.AssemblyInfoInputs.cache
+/home/msasa/Documents/project/DebtManager/DebtManager/obj/Debug/net8.0/DebtManager.AssemblyInfo.cs
+/home/msasa/Documents/project/DebtManager/DebtManager/obj/Debug/net8.0/DebtManager.csproj.CoreCompileInputs.cache
+/home/msasa/Documents/project/DebtManager/DebtManager/obj/Debug/net8.0/DebtManager.dll
+/home/msasa/Documents/project/DebtManager/DebtManager/obj/Debug/net8.0/refint/DebtManager.dll
+/home/msasa/Documents/project/DebtManager/DebtManager/obj/Debug/net8.0/DebtManager.pdb
+/home/msasa/Documents/project/DebtManager/DebtManager/obj/Debug/net8.0/DebtManager.genruntimeconfig.cache
+/home/msasa/Documents/project/DebtManager/DebtManager/obj/Debug/net8.0/ref/DebtManager.dll
