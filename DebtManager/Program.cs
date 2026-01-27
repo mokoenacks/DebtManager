@@ -1,13 +1,19 @@
 ﻿using System.Globalization;
 
 float effectiveRate = 20.75f;
-float totalDebt = 50000.00f; 
+float totalDebt= 0;
 float monthlyPayment = 2500.00f;
 float whatToPay = 0 ;
 float interestCharged = 0 ;
-
 float monthlyInterest = (effectiveRate/100)/12;
 int monthlyCount = 0;
+
+Console.WriteLine("What is your total debt?: ");
+string totalDebtinput = Console.ReadLine(); 
+totalDebt = float.Parse(totalDebtinput);
+
+Console.WriteLine("Enter monthly repayment");
+monthlyPayment = float.Parse(Console.ReadLine());
 
 // calculations
 float totalBalance = 1000000000;
