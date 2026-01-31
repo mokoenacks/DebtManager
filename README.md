@@ -41,3 +41,32 @@ Prerequisites
 
 .NET SDK (version 6.0 or higher recommended)
 A C# compatible IDE or text editor (Visual Studio, VS Code, Rider, etc.)
+
+Important Notes
+
+⚠️ Minimum Payment Required: Ensure your monthly payment is greater than the monthly interest charge, otherwise the debt will never be paid off
+The calculation stops when the balance falls below R1.00
+All currency values are displayed in South African Rand (ZAR) format
+
+Future Enhancements
+Potential improvements for this application:
+
+Allow user to input custom interest rate
+Add input validation for negative numbers or invalid entries
+Display total interest paid and total time to pay off debt
+Export results to CSV or text file
+Add option to make extra payments in specific months
+Create a GUI version
+Add comparison between different payment scenarios
+
+Contributing
+Contributions are welcome! Please feel free to submit a Pull Request.
+License
+This project is open source and available under the MIT License.
+Author
+Your Name - Your GitHub Profile
+Acknowledgments
+
+Built with C# and .NET
+Uses South African Rand (ZAR) currency formatting
+
